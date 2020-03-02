@@ -1,0 +1,8 @@
+__pycache__/
+/media
+.vs/
+db.sqlite3
+manage.py
+mini_site/settings.py
+mini_site/wsgi.py
+miniLibrary/migrations/
